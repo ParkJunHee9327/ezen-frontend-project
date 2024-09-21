@@ -12,14 +12,12 @@ Languages: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-t
 ### :pushpin: Details
 \<Note\>
 - The basic language of this project is Korean, so mind this when exploring this.
-- There's no special requirment installing this.
+- There's no special requirment to run this site.
 
 \<Installation\>
 1. Install VSCode on your compouter
 2. Download all sources and open the folder in VSCode.
 3. Go to main_page_logout and open it with Live Server expander of VSCode.
-
-There's no specific requirment to run this site.
 
 \<Role\>
 + Me: signup_main, signup_intro, login, Healthy section(Main page), my_page.
