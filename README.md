@@ -10,7 +10,9 @@ Languages: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-t
 <hr>
 
 ### :pushpin: Details
-***Note:*** The basic language of this project is Korean, so mind this when exploring this.
+\<Note\>
+- The basic language of this project is Korean, so mind this when exploring this.
+- There's no special requirment installing this.
 
 \<Installation\>
 1. Install VSCode on your compouter
