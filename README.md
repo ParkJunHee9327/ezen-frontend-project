@@ -1,6 +1,7 @@
 ### :pushpin: 개요
 학원에서 진행한 첫 프론트엔드 프로젝트 입니다.
 다양한 사용자 계층을 고려한 홈페이지를 제작하고자 하여 남녀노소 누구나 이용하는 병원 사이트를 제작했습니다.
+
 **사용 언어**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **사전 작업**
